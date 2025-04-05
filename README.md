@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+HSE & LSE Data Science and Business analyrics student.
+Python & C++ coding skills
 <!--
 **Perf0rator4/Perf0rator4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
