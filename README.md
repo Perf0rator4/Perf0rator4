@@ -1,4 +1,4 @@
-## Hi there 👋
+## GDay Lads there 👋
 HSE & LSE Data Science and Business analytics student.
 
 Python & C++ coding skills.
